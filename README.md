@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/botcuangarali/botcuangarali.svg)](http://hits.dwyl.com/botcuangarali/botcuangarali)
+
 - 🇹🇷WELCOME TO MY PROFILE🇹🇷
 - IM A TURKISH WEB DESIGNER AND PROGRAMMER I AM WORKINNG NOW ON PYTHON AND JS
 - 🇹🇷WE ARE THR TURKEY TEAM🇹🇷
