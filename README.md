@@ -1,5 +1,11 @@
-### Hi there 👋
-
+🇹🇷WELCOME TO MY PROFILE🇹🇷
+IM A TURKISH WEB DESIGNER AND PROGRAMMER I AM WORKINNG NOW ON PYTHON AND JS
+🇹🇷WE ARE THR TURKEY TEAM🇹🇷
+OUR GANG:
+https://github.com/CyberTKR
+https://github.com/ZarifBey
+My istagram: instagram.com/botcunz
+My line: http://line.me/ti/p/~botcux1
 <!--
 **botcuangarali/botcuangarali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
