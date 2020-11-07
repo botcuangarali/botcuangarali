@@ -2,7 +2,7 @@
 
 - 🇹🇷WELCOME TO MY PROFILE🇹🇷
 - IM A TURKISH WEB DESIGNER AND PROGRAMMER I AM WORKINNG NOW ON PYTHON AND JS
-- 🇹🇷WE ARE THR TURKEY TEAM🇹🇷
+- 🇹🇷WE ARE THE TURKEY TEAM🇹🇷
 - OUR GANG:
 - (https://github.com/CyberTKR)
 - (https://github.com/ZarifBey)
