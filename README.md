@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/botcuangarali/botcuangarali/master/mast.png)]
+![MastHead](https://raw.githubusercontent.com/botcuangarali/botcuangarali/master/mast.png)
 
 [![HitCount](http://hits.dwyl.com/botcuangarali/botcuangarali.svg)](http://hits.dwyl.com/botcuangarali/botcuangarali)
 
