@@ -4,8 +4,6 @@
 
 - 🇹🇷WELCOME TO MY PROFILE🇹🇷
 - IM A TURKISH WEB DESIGNER AND PROGRAMMER I AM WORKINNG NOW ON PYTHON AND JS
-- 🇹🇷WE ARE THE TURKEY TEAM🇹🇷
-
 
 [![GitHub](https://raw.githubusercontent.com/botcuangarali/botcuangarali/master/soc/gh.svg)](https://github.com/botcuangarali)[![Instagram](https://raw.githubusercontent.com/botcuangarali/botcuangarali/master/soc/ig.svg)](https://instagram.com/botcunz)
 
