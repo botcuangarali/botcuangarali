@@ -1,13 +1,13 @@
+[![MastHead](https://raw.githubusercontent.com/botcuangarali/botcuangarali/master/mast.png)]
+
 [![HitCount](http://hits.dwyl.com/botcuangarali/botcuangarali.svg)](http://hits.dwyl.com/botcuangarali/botcuangarali)
 
 - 🇹🇷WELCOME TO MY PROFILE🇹🇷
 - IM A TURKISH WEB DESIGNER AND PROGRAMMER I AM WORKINNG NOW ON PYTHON AND JS
-
-[![GitHub](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/gh.svg)](https://github.com/botcuangarali) [![GitLab](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/gl.svg)](https://gitlab.com/botcuangarali) [![Instagram](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ig.svg)](https://instagram.com/botcunz)
-
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-
-![Praveen GitHub statistic](https://github-readme-stats.vercel.app/api?username=praveenscience&show_icons=true)
+- 🇹🇷WE ARE THE TURKEY TEAM🇹🇷
+- OUR GANG:
+- (https://github.com/CyberTKR)
+- (https://github.com/ZarifBey)
 
  FOLLOW ME : [Instagram](https://www.instagram.com/botcunz/) [Line](http://line.me/ti/p/~botcux1)
 
@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Dino](https://raw.githubusercontent.com/botcuangarali/botcuangarali/master/dino.gif)
